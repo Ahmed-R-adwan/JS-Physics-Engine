@@ -9,7 +9,7 @@ class Vector2{
         this.x = vector2.x;
         this.y = vector2.y;
     }
-    //scalling the  vector
+    //scalling the vector
     Scale(scaler){
         this.x *= scaler;
         this.y *= scaler;
